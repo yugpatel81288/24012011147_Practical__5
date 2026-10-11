@@ -28,7 +28,7 @@ A beginner-friendly Android application that recreates the GUNI Login and Regist
 app/
 └── src/
     └── main/
-        ├── java/com/example/a24012011153_mad_pr5/
+        ├── java/com/example/a24012011147_Practical_5/
         │   ├── MainActivity.kt
         │   ├── AppNavigation.kt
         │   ├── screen/
